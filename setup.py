@@ -23,8 +23,6 @@ setup(
         'opencv-python-headless',  # headless not to conflict with QT versions in vpype show
         'opensimplex',
         'tqdm',
-        'hnswlib>=0.5.0',
-        'scikit-image',
         'pillow',
     ],
     entry_points='''
